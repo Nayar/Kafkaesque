@@ -11,5 +11,6 @@
 ```
 [Driver's License] <-- 2 x [Passport Photo] + [NIC]
 [Morality Certificate] <-- [NIC]
+[NIC] <-- [Birth Certificate] + 2 x [Passport Photo]
 []
 ```
