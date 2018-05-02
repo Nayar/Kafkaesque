@@ -11,6 +11,6 @@
 
 ```
 [Driver's License] <-- 2 x [Passport Photo] + [NIC]
-[Morality Certificate] <-- [Birth Certificate] + ([NIC]) + ([Marriage Certificate]) + [Proof of Residence]
+[Morality Certificate] <-- [Birth Certificate] + ([NIC]) + ([Marriage Certificate]) + [Proof of Residence] + (Rs 100;Individual) + (Rs 300;Companies)
 [NIC] <-- [Birth Certificate] + 2 x [Passport Photo]
 ```
